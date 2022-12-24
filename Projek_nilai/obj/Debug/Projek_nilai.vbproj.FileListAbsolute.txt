@@ -1,0 +1,24 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\bin\Debug\Projek_nilai.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\bin\Debug\Projek_nilai.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\bin\Debug\Projek_nilai.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\bin\Debug\Projek_nilai.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Projek_nilai\obj\Debug\Projek_nilai.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\bin\Debug\Projek_nilai.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\bin\Debug\Projek_nilai.exe.config
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\bin\Debug\Projek_nilai.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\bin\Debug\Projek_nilai.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\bin\Debug\Projek_nilai.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.Form1.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.Resources.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\Projek_nilai\Projek_nilai\obj\Debug\Projek_nilai.vbproj.GenerateResource.Cache
